@@ -1,0 +1,13 @@
+.card {
+    padding: 0px;
+    background-color: #C7E6FC;
+}
+
+.card-title {
+    color: #2A7EAD;
+}
+
+.alert-container {
+    display: flex;
+    justify-content: center;
+}

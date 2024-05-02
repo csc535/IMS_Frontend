@@ -1,0 +1,28 @@
+.subtitle {
+    color: #2a7ead;
+    margin-top: 7px;
+    font: 24px Inter, sans-serif;
+    font-weight: bold;
+}
+
+.header-left-content {
+    text-align: left;
+}
+
+img.logOut {
+    height: 27px;
+    width: 25px;
+}
+
+.ButtonWrap {
+    white-space: nowrap;
+    text-align: center;
+}
+.noWrap {
+    flex-wrap: nowrap;
+}
+
+div.colPadding {
+    padding-right: 5px;
+    padding-left: 5px;
+}
